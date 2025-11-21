@@ -3,6 +3,13 @@
 A simple Weather Predictor app is a streamlit application that uses simple mahine learning models to make 7-day weather forecast.It also predicts chances of rain based on parameters of the day.
 It also tells us about pressure,temprature,humidity and wind speed .
 
+Screenshot 
+
+![img alt]("C:\Users\irfan\Desktop\weather ss1.png")
+
+![img alt]( "D:\Downloads\Screenshot_21-11-2025_225536_localhost.jpeg")
+
+
 ✨ Features
 
 7-Day Prediction : The application predicts  the weather for the next seven days based on the user's input.
