@@ -5,9 +5,7 @@ It also tells us about pressure,temprature,humidity and wind speed .
 
 Screenshot 
 
-![img alt]("C:\Users\irfan\Desktop\weather ss1.png")
-
-![img alt]( "D:\Downloads\Screenshot_21-11-2025_225536_localhost.jpeg")
+![img alt](https://github.com/hashircode/Weather_predictor_app/blob/main/weather%20ss1.png?raw=true)
 
 
 ✨ Features
