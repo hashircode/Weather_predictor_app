@@ -8,7 +8,7 @@ Screenshot
 ![img alt](https://github.com/hashircode/Weather_predictor_app/blob/main/weather%20ss1.png?raw=true)
 
 
-[![LinkedIn Post Badge](https://img.shields.io/badge/LinkedIn-View%20Demo%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/muhammad-hashir-485b53376_im-excited-to-share-the-completion-of-my-activity-7398418334649806848-8WJi)
+[![LinkedIn Post Badge](https://img.shields.io/badge/LinkedIn-Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/muhammad-hashir-485b53376_im-excited-to-share-the-completion-of-my-activity-7398418334649806848-8WJi)
 
 ✨ Features
 
