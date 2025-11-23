@@ -8,6 +8,8 @@ Screenshot
 ![img alt](https://github.com/hashircode/Weather_predictor_app/blob/main/weather%20ss1.png?raw=true)
 
 
+[![LinkedIn Post](https://www.linkedin.com/posts/muhammad-hashir-485b53376_im-excited-to-share-the-completion-of-my-activity-7398418334649806848-8WJi?utm_source=share&utm_medium=member_android&rcm=ACoAAF0TD-UBgSlbFejRCD4tolGMvkZ_smPvzLY)
+
 ✨ Features
 
 7-Day Prediction : The application predicts  the weather for the next seven days based on the user's input.
