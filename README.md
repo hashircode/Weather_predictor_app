@@ -22,10 +22,52 @@ Rain Prediction: An integrated Random Forest model predicts the probability of r
 
 🛠️ Technologies Used
 
-Python 
+User Interface      Streamlit        Creates the interactive, data-driven web application interface.
+Backend / Logic     Python           Core application language for running the web app and all logic.
+Data Handling       Pandas           Used for creating, manipulating, and managing the weather dataframes (both training and projected data)."
+Machine Learning    Scikit-learn     Provides the implementation for the Random Forest Classifier and StandardScaler for the rain prediction model.
 
-Streamlit: For creating the interactive web application interface.
 
-Pandas: For data manipulation and handling.
+Overview
 
-Scikit-learn (sklearn): For training and running the Random Forest Classification model.
+This Streamlit application provides an interactive 7-day weather forecast, driven by user input for the current day's parameters. It leverages an in-memory Random Forest Classifier model to predict the probability of rain across the forecast week. The app serves as a simple demonstration of combining data projection and machine learning for real-time forecasting.
+
+ 
+🚀 How to Run the Weather Predictor App
+
+
+Since this application is a single Python script using Streamlit, you do not need a complex Docker setup to run it locally.
+
+Prerequisites
+
+Python (3.7+) installed on your system.
+
+The necessary libraries (streamlit, pandas, scikit-learn) installed.
+
+Step 1: Install Dependencies
+
+Run the following command in your terminal to ensure you have the required libraries:
+
+pip install streamlit pandas scikit-learn
+
+
+Step 2: Run the Application
+
+Save the provided code as a Python file (e.g., app.py). Then, execute the Streamlit command from your terminal:
+
+streamlit run app.py
+
+
+Step 3: Access the Dashboard
+
+Once the command runs, Streamlit will automatically open a browser window (or provide a local URL, usually http://localhost:8501).
+
+You can now:
+
+Adjust the input parameters on the left.
+
+View the updated 7-Day Forecast based on the built-in Random Forest model.
+
+## Authors
+
+* **[Muhammad Hashir](https://github.com/account)**
